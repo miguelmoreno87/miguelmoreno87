@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @miguelmoreno87. I graduated in Physics on July 2024.
+- 👀 I’m interested in Complex Systems and mathematical modelling.
+- 🌱 I’m currently learning Computer Science
